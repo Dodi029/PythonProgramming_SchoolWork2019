@@ -1,0 +1,7 @@
+name=int(1)
+name1=input("강아지의 이름을 입력하시오.")
+name2=input("강아지의 이름을 입력하시오.")
+name3=input("강아지의 이름을 입력하시오.")
+name4=input("강아지의 이름을 입력하시오.")
+b=name.extend(name1+name2+name3+name4)
+print("강아지들의 이름",list(b))
